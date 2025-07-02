@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"This commit is handled by husky\"",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "start": "uvicorn app.main:app --reload"
   },
   "keywords": [],
   "author": "",
