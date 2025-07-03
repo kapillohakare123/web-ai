@@ -32,10 +32,10 @@ python scripts/train_model.py
 
 This generates the file `ml/model.pkl` (relative to the project root), which is used by the `/predict` API route.
 
-### ✅ Step 3: Run FastAPI Server
+### ✅ Step 3: Run Django Project
 
 ```bash
-uvicorn app.main:app --reload
+python manage.py runserver
 ```
 
 Visit: [http://localhost:8000](http://localhost:8000)
@@ -98,7 +98,6 @@ Included `.vscode/settings.json` example:
 
 From requirements.txt:
 
-- fastapi
 - uvicorn
 - scikit-learn
 - joblib
