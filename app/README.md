@@ -19,7 +19,6 @@ The project is organized as follows:
 ```
 web_ai_platform/
 ├── config/         # Django settings and configurations
-├── myapp/          # Main Django application
 ├── ml/             # Machine Learning models and utilities
 ├── notebooks/      # Jupyter notebooks for EDA
 ├── automation/     # Scripts for future automation tasks
