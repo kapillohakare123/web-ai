@@ -1,0 +1,222 @@
+[
+    {
+      "model": "products.product",
+      "pk": 1,
+      "fields": {
+        "name": "Wireless Mouse",
+        "description": "Ergonomic wireless mouse with long battery life.",
+        "price": 25.99,
+        "stock": 150,
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 2,
+      "fields": {
+        "name": "Mechanical Keyboard",
+        "description": "RGB mechanical keyboard with tactile blue switches.",
+        "price": 89.99,
+        "stock": 60,
+        "image": "https://images.unsplash.com/photo-1587202372775-98905f1f458b"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 3,
+      "fields": {
+        "name": "HD Monitor",
+        "description": "24-inch HD monitor with vivid color and HDMI support.",
+        "price": 149.49,
+        "stock": 80,
+        "image": "https://images.unsplash.com/photo-1588345682342-4789f0d81229"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 4,
+      "fields": {
+        "name": "USB-C Hub",
+        "description": "7-in-1 USB-C hub with power delivery and 4K HDMI output.",
+        "price": 45.75,
+        "stock": 200,
+        "image": "https://images.unsplash.com/photo-1580910051070-f2adfcb63c1b"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 5,
+      "fields": {
+        "name": "Noise Cancelling Headphones",
+        "description": "Over-ear headphones with active noise cancellation.",
+        "price": 129.99,
+        "stock": 40,
+        "image": "https://images.unsplash.com/photo-1610440049690-b12c4c981c03"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 6,
+      "fields": {
+        "name": "Webcam 1080p",
+        "description": "Full HD webcam with built-in microphone and auto-focus.",
+        "price": 39.95,
+        "stock": 110,
+        "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 7,
+      "fields": {
+        "name": "Laptop Stand",
+        "description": "Aluminum adjustable laptop stand for ergonomic posture.",
+        "price": 34.99,
+        "stock": 75,
+        "image": "https://images.unsplash.com/photo-1593642531955-b62e17e48d88"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 8,
+      "fields": {
+        "name": "Portable SSD 1TB",
+        "description": "High-speed 1TB external SSD with USB-C connectivity.",
+        "price": 109.00,
+        "stock": 65,
+        "image": "https://images.unsplash.com/photo-1610986603167-1ec3d3e3e5a6"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 9,
+      "fields": {
+        "name": "Bluetooth Speaker",
+        "description": "Compact Bluetooth speaker with rich bass and clear sound.",
+        "price": 49.50,
+        "stock": 120,
+        "image": "https://images.unsplash.com/photo-1606811841416-cb5501b31f82"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 10,
+      "fields": {
+        "name": "Smartwatch",
+        "description": "Fitness smartwatch with heart rate monitor and GPS.",
+        "price": 199.99,
+        "stock": 35,
+        "image": "https://images.unsplash.com/photo-1579583765283-699dc9716b80"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 11,
+      "fields": {
+        "name": "Gaming Chair",
+        "description": "High-back ergonomic gaming chair with lumbar support.",
+        "price": 229.99,
+        "stock": 25,
+        "image": "https://images.unsplash.com/photo-1616627982645-4f3a437c0c92"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 12,
+      "fields": {
+        "name": "Graphic Tablet",
+        "description": "Pressure-sensitive tablet for digital drawing and editing.",
+        "price": 59.99,
+        "stock": 50,
+        "image": "https://images.unsplash.com/photo-1557683304-673a23048d34"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 13,
+      "fields": {
+        "name": "LED Desk Lamp",
+        "description": "Adjustable LED lamp with brightness and color controls.",
+        "price": 22.45,
+        "stock": 95,
+        "image": "https://images.unsplash.com/photo-1585583458610-5a8d58786e3c"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 14,
+      "fields": {
+        "name": "Smartphone Tripod",
+        "description": "Flexible tripod with universal phone mount.",
+        "price": 19.95,
+        "stock": 130,
+        "image": "https://images.unsplash.com/photo-1598327105563-196ecb00aad8"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 15,
+      "fields": {
+        "name": "Wireless Charger",
+        "description": "10W fast wireless charging pad compatible with most phones.",
+        "price": 18.75,
+        "stock": 140,
+        "image": "https://images.unsplash.com/photo-1587825140400-4329c15a5e4d"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 16,
+      "fields": {
+        "name": "Mini Projector",
+        "description": "Compact projector with HDMI and WiFi support.",
+        "price": 89.90,
+        "stock": 45,
+        "image": "https://images.unsplash.com/photo-1583324113626-70df0f4deaab"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 17,
+      "fields": {
+        "name": "Smart Light Bulbs",
+        "description": "Color-changing Wi-Fi bulbs with app and voice control.",
+        "price": 29.99,
+        "stock": 150,
+        "image": "https://images.unsplash.com/photo-1582719478170-efcfb94e1b2d"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 18,
+      "fields": {
+        "name": "External Hard Drive 2TB",
+        "description": "Reliable 2TB backup drive with USB 3.0 support.",
+        "price": 69.99,
+        "stock": 85,
+        "image": "https://images.unsplash.com/photo-1573497019419-d2842f7b3b59"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 19,
+      "fields": {
+        "name": "Ergonomic Desk",
+        "description": "Height-adjustable desk for sit/stand work setup.",
+        "price": 299.99,
+        "stock": 15,
+        "image": "https://images.unsplash.com/photo-1627384111445-8fef86e9d16d"
+      }
+    },
+    {
+      "model": "products.product",
+      "pk": 20,
+      "fields": {
+        "name": "Cable Organizer",
+        "description": "Magnetic cable clips to keep your workspace tidy.",
+        "price": 9.99,
+        "stock": 300,
+        "image": "https://images.unsplash.com/photo-1606813902897-3b3c56ba2aa8"
+      }
+    }
+  ]
